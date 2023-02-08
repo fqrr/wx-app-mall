@@ -29,7 +29,7 @@ https://gitee.com/fqrhello_world/de-watermark/raw/master/gh_697101a8e05a_344.jpg
 
 ![输入图片说明](https://gitee.com/fqrhello_world/de-watermark/raw/master/gh_697101a8e05a_344.jpg)
 
-更多微信小程序源码，微信搜索 关注“小新Alex黑科技”公众号，获取更多源码~
+更多微信小程序源码，微信搜索  **关注“小新Alex黑科技”公众号** ，获取更多源码~
 ##
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
